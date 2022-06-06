@@ -1,0 +1,13 @@
+name: web_deploy
+title: web_deploy
+username:
+account: michael-dick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6427414
+bundleId: 5975811
+url: https://michael-dick.shinyapps.io/web_deploy/
+when: 1654281454.82836
+lastSyncTime: 1654281454.82837
+asMultiple: FALSE
+asStatic: FALSE
